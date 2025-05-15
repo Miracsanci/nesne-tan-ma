@@ -1,4 +1,4 @@
-# nesne-tan-ma
+# nesne-tanima
 Yapay Zeka ile Nesne tanımlama Projesi
 
 Bu proje, ResNet50 mimarisi ve ImageNet sınıflandırma modeli kullanarak yüklenen görsellerdeki alet ve elektronik eşya türlerini tanımlar. Kullanıcılar, Gradio arayüzü sayesinde bir görsel yükleyerek modelin tahminlerini hızlıca görebilir.
